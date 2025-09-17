@@ -1,0 +1,6 @@
+.git
+qrcodes
+uploads
+node_modules
+vendor
+*.log
